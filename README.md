@@ -80,11 +80,6 @@ This framework addresses these challenges using a multi-stage enhancement pipeli
 
 
 
-## RUN IN GOOGLE COLAB
-
-Add your Colab link below after uploading the notebook:
-
-[Open In Colab](PASTE_YOUR_COLAB_LINK_HERE)
 
 Steps:
 
