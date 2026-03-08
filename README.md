@@ -78,9 +78,6 @@ This framework addresses these challenges using a multi-stage enhancement pipeli
 
 ---
 
-
-
-
 Steps:
 
 1. Open the notebook in Google Colab  
@@ -146,10 +143,10 @@ The framework improves:
 ## AUTHOR
 
 **Jigyasa Awasthi**  
-Machine Learning | Computer Vision | Flutter Developer
+Machine Learning | Computer Vision | Flutter Developer | Java
 
 **Harsh Yadav**  
-Machine Learning | Computer Vision | Flutter Developer
+Machine Learning | Computer Vision | Flutter Developer | Java
 
 ---
 
