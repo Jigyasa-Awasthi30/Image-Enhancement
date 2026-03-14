@@ -143,10 +143,10 @@ The framework improves:
 ## AUTHOR
 
 **Jigyasa Awasthi**  
-Machine Learning | Computer Vision | Flutter Developer | Java | AI
+Machine Learning | Computer Vision | Flutter Developer | Java | AI | Python
 
 **Harsh Yadav**  
-Machine Learning | Computer Vision | Flutter Developer | Java | AI
+Machine Learning | Computer Vision | Flutter Developer | Java | AI | Python
 
 ---
 
