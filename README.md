@@ -7,7 +7,7 @@ Deep Learning Assisted Sequential Image Processing Pipeline
 
 ## PROJECT OVERVIEW
 
-Image Enhancement Framework is a research-oriented image processing system that combines sequential enhancement techniques with deep learning refinement to improve image quality, clarity, and structural detail.
+Image Enhancement Framework is a research-oriented image processing system that combines sequential enhancement techniques with deep learning refinement to improve image quality, clarity, and structural detail. 
 
 The framework integrates classical image processing methods with neural network–based adaptive refinement to produce visually enhanced outputs. The project is implemented using Google Colab for easy reproducibility and experimentation.
 
