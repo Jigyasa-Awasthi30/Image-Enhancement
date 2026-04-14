@@ -20,7 +20,7 @@ Raw images often suffer from:
 - Low contrast  
 - Noise artifacts  
 - Poor edge visibility  
-- Uneven illumination  
+- Uneven illumination
 
 This framework addresses these challenges using a multi-stage enhancement pipeline that progressively improves image quality.
 
